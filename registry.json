@@ -322,6 +322,49 @@
             "description": "128-bit UUID arithmetic.",
             "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nuuid-1.0.0.npkpkg",
             "checksum": "skip"
+        },
+        {
+            "name": "nsemver",
+            "version": "1.0.0",
+            "description": "Native Semantic Versioning parsing for Nitpick.",
+            "url": "https://ai-lp.org/nsemver-1.0.0.npkpkg",
+            "keywords": [
+                "utility",
+                "version",
+                "semver"
+            ]
+        },
+        {
+            "name": "nlog",
+            "version": "1.0.0",
+            "description": "Native structured logging for Nitpick.",
+            "url": "https://ai-lp.org/nlog-1.0.0.npkpkg",
+            "keywords": [
+                "utility",
+                "log",
+                "logging"
+            ]
+        },
+        {
+            "name": "nstr",
+            "version": "1.0.0",
+            "description": "High-level string manipulation",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nstr-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "ndiff",
+            "version": "1.0.0",
+            "description": "Native diff algorithm implementation",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/ndiff-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "nmarkdown",
+            "version": "1.0.0",
+            "description": "Markdown parser and HTML generator",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nmarkdown-1.0.0.npkpkg",
+            "checksum": "skip"
         }
     ]
 }
