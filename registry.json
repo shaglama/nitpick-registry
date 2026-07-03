@@ -200,6 +200,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nfreq",
+      "latest_version": "1.0.0",
+      "description": "Frequency counting algorithms.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
