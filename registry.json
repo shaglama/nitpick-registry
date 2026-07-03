@@ -1,0 +1,135 @@
+{
+  "packages": [
+    {
+      "name": "test-package",
+      "latest_version": "1.0.0",
+      "description": "A test package for the new npkpkg",
+      "categories": [
+        "utils"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nitpick-dbg",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nitpick-sprite",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nitpick-tui",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nonefetch",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nscooter",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+      "name": "nitpick-gtk4",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+      "name": "nitpick-opengl",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+      "name": "nitpick-raylib",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+      "name": "nitpick-vulkan",
+      "latest_version": "1.0.0",
+      "description": "",
+      "categories": [],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "ntoml",
+      "latest_version": "1.0.0",
+      "description": "Native TOML parser for Nitpick.",
+      "categories": [
+        "formats"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "njson",
+      "latest_version": "1.0.0",
+      "description": "Native JSON parser for Nitpick.",
+      "categories": [
+        "formats"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nyaml",
+      "latest_version": "1.0.0",
+      "description": "Native YAML parser for Nitpick.",
+      "categories": [
+        "formats"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "ncsv",
+      "latest_version": "1.0.0",
+      "description": "Native CSV parser for Nitpick.",
+      "categories": [
+        "formats"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nxml",
+      "latest_version": "1.0.0",
+      "description": "Native XML parser for Nitpick.",
+      "categories": [
+        "formats"
+      ],
+      "downloads": 0
+    }
+  ]
+}
