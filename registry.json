@@ -240,6 +240,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nzigzag",
+      "latest_version": "1.0.0",
+      "description": "Zigzag encoding/decoding.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
