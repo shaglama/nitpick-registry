@@ -130,6 +130,16 @@
         "formats"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nascii",
+      "latest_version": "1.0.0",
+      "description": "ASCII character classification and conversion.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
