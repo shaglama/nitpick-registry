@@ -140,6 +140,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nbits",
+      "latest_version": "1.0.0",
+      "description": "Safe bit manipulation and popcount utilities.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
