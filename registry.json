@@ -190,6 +190,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nfixed",
+      "latest_version": "1.0.0",
+      "description": "Fixed-point math utilities.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
