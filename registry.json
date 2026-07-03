@@ -250,6 +250,36 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nresult",
+      "latest_version": "1.0.0",
+      "description": "Standard Result types for error handling.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nsort",
+      "latest_version": "1.0.0",
+      "description": "Standard sorting algorithms.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "npqueue",
+      "latest_version": "1.0.0",
+      "description": "Priority queue structure.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
