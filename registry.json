@@ -150,6 +150,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nbuf",
+      "latest_version": "1.0.0",
+      "description": "Byte packing/unpacking and endian utilities.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
