@@ -170,6 +170,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "ncolor",
+      "latest_version": "1.0.0",
+      "description": "RGBA color packing, unpacking, and terminal palette mapping.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
