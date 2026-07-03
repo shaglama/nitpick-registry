@@ -1,285 +1,327 @@
 {
-  "packages": [
-    {
-      "name": "test-package",
-      "latest_version": "1.0.0",
-      "description": "A test package for the new npkpkg",
-      "categories": [
-        "utils"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nitpick-dbg",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nitpick-sprite",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nitpick-tui",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nonefetch",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nscooter",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
-      "name": "nitpick-gtk4",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
-      "name": "nitpick-opengl",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
-      "name": "nitpick-raylib",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
-      "name": "nitpick-vulkan",
-      "latest_version": "1.0.0",
-      "description": "",
-      "categories": [],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "ntoml",
-      "latest_version": "1.0.0",
-      "description": "Native TOML parser for Nitpick.",
-      "categories": [
-        "formats"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "njson",
-      "latest_version": "1.0.0",
-      "description": "Native JSON parser for Nitpick.",
-      "categories": [
-        "formats"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nyaml",
-      "latest_version": "1.0.0",
-      "description": "Native YAML parser for Nitpick.",
-      "categories": [
-        "formats"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "ncsv",
-      "latest_version": "1.0.0",
-      "description": "Native CSV parser for Nitpick.",
-      "categories": [
-        "formats"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nxml",
-      "latest_version": "1.0.0",
-      "description": "Native XML parser for Nitpick.",
-      "categories": [
-        "formats"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nascii",
-      "latest_version": "1.0.0",
-      "description": "ASCII character classification and conversion.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nbits",
-      "latest_version": "1.0.0",
-      "description": "Safe bit manipulation and popcount utilities.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nbuf",
-      "latest_version": "1.0.0",
-      "description": "Byte packing/unpacking and endian utilities.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nclamp",
-      "latest_version": "1.0.0",
-      "description": "Min, max, clamp, and abs operations for integers.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "ncolor",
-      "latest_version": "1.0.0",
-      "description": "RGBA color packing, unpacking, and terminal palette mapping.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nendian",
-      "latest_version": "1.0.0",
-      "description": "Endianness swapping and detection.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nfixed",
-      "latest_version": "1.0.0",
-      "description": "Fixed-point math utilities.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nfreq",
-      "latest_version": "1.0.0",
-      "description": "Frequency counting algorithms.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nrand",
-      "latest_version": "1.0.0",
-      "description": "Random number generation (PRNG).",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nvec",
-      "latest_version": "1.0.0",
-      "description": "Alternative vector type.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nvector",
-      "latest_version": "1.0.0",
-      "description": "Dynamic array/vector type.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nzigzag",
-      "latest_version": "1.0.0",
-      "description": "Zigzag encoding/decoding.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nresult",
-      "latest_version": "1.0.0",
-      "description": "Standard Result types for error handling.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "nsort",
-      "latest_version": "1.0.0",
-      "description": "Standard sorting algorithms.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    },
-    {
-      "warnings": "",
-      "name": "npqueue",
-      "latest_version": "1.0.0",
-      "description": "Priority queue structure.",
-      "categories": [
-        "utility"
-      ],
-      "downloads": 0
-    }
-  ]
+    "packages": [
+        {
+            "name": "test-package",
+            "latest_version": "1.0.0",
+            "description": "A test package for the new npkpkg",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nitpick-dbg",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nitpick-sprite",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nitpick-tui",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nonefetch",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nscooter",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+            "name": "nitpick-gtk4",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+            "name": "nitpick-opengl",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+            "name": "nitpick-raylib",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "This package contains C dependencies and will be deprecated in the future in favor of NGUI.",
+            "name": "nitpick-vulkan",
+            "latest_version": "1.0.0",
+            "description": "",
+            "categories": [],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "ntoml",
+            "latest_version": "1.0.0",
+            "description": "Native TOML parser for Nitpick.",
+            "categories": [
+                "formats"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "njson",
+            "latest_version": "1.0.0",
+            "description": "Native JSON parser for Nitpick.",
+            "categories": [
+                "formats"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nyaml",
+            "latest_version": "1.0.0",
+            "description": "Native YAML parser for Nitpick.",
+            "categories": [
+                "formats"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "ncsv",
+            "latest_version": "1.0.0",
+            "description": "Native CSV parser for Nitpick.",
+            "categories": [
+                "formats"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nxml",
+            "latest_version": "1.0.0",
+            "description": "Native XML parser for Nitpick.",
+            "categories": [
+                "formats"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nascii",
+            "latest_version": "1.0.0",
+            "description": "ASCII character classification and conversion.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nbits",
+            "latest_version": "1.0.0",
+            "description": "Safe bit manipulation and popcount utilities.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nbuf",
+            "latest_version": "1.0.0",
+            "description": "Byte packing/unpacking and endian utilities.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nclamp",
+            "latest_version": "1.0.0",
+            "description": "Min, max, clamp, and abs operations for integers.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "ncolor",
+            "latest_version": "1.0.0",
+            "description": "RGBA color packing, unpacking, and terminal palette mapping.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nendian",
+            "latest_version": "1.0.0",
+            "description": "Endianness swapping and detection.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nfixed",
+            "latest_version": "1.0.0",
+            "description": "Fixed-point math utilities.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nfreq",
+            "latest_version": "1.0.0",
+            "description": "Frequency counting algorithms.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nrand",
+            "latest_version": "1.0.0",
+            "description": "Random number generation (PRNG).",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nvec",
+            "latest_version": "1.0.0",
+            "description": "Alternative vector type.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nvector",
+            "latest_version": "1.0.0",
+            "description": "Dynamic array/vector type.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nzigzag",
+            "latest_version": "1.0.0",
+            "description": "Zigzag encoding/decoding.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nresult",
+            "latest_version": "1.0.0",
+            "description": "Standard Result types for error handling.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nsort",
+            "latest_version": "1.0.0",
+            "description": "Standard sorting algorithms.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "npqueue",
+            "latest_version": "1.0.0",
+            "description": "Priority queue structure.",
+            "categories": [
+                "utility"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nbase64",
+            "version": "1.0.0",
+            "description": "Base64 encoding/decoding.",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nbase64-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "ndeque",
+            "version": "1.0.0",
+            "description": "Double-ended queue \u2014 O(1) push/pop.",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/ndeque-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "nhash",
+            "version": "1.0.0",
+            "description": "Non-cryptographic hashing \u2014 FNV-1a, djb2.",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nhash-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "nlru",
+            "version": "1.0.0",
+            "description": "LRU cache \u2014 O(1) get/put, clock-based eviction.",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nlru-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "nringbuf",
+            "version": "1.0.0",
+            "description": "Circular buffer (FIFO).",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nringbuf-1.0.0.npkpkg",
+            "checksum": "skip"
+        },
+        {
+            "name": "nuuid",
+            "version": "1.0.0",
+            "description": "128-bit UUID arithmetic.",
+            "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nuuid-1.0.0.npkpkg",
+            "checksum": "skip"
+        }
+    ]
 }
