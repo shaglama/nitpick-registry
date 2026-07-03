@@ -180,6 +180,16 @@
         "utility"
       ],
       "downloads": 0
+    },
+    {
+      "warnings": "",
+      "name": "nendian",
+      "latest_version": "1.0.0",
+      "description": "Endianness swapping and detection.",
+      "categories": [
+        "utility"
+      ],
+      "downloads": 0
     }
   ]
 }
