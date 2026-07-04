@@ -365,6 +365,313 @@
             "description": "Markdown parser and HTML generator",
             "tarball": "https://shaglama.github.io/nitpick-registry/tarballs/nmarkdown-1.0.0.npkpkg",
             "checksum": "skip"
+        },
+        {
+            "name": "ngui-window-fbdev",
+            "latest_version": "1.0.0",
+            "description": "Native ngui-window-fbdev library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nsync",
+            "latest_version": "1.0.0",
+            "description": "Native nsync library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ndns",
+            "latest_version": "1.0.0",
+            "description": "Native ndns library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nfont-raster",
+            "latest_version": "1.0.0",
+            "description": "Native nfont-raster library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ngui",
+            "latest_version": "1.0.0",
+            "description": "Native ngui library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nbitset",
+            "latest_version": "1.0.0",
+            "description": "Native nbitset library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nshape",
+            "latest_version": "1.0.0",
+            "description": "Native nshape library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ngui-sandbox",
+            "latest_version": "1.0.0",
+            "description": "Native ngui-sandbox library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nmath",
+            "latest_version": "1.0.0",
+            "description": "Native nmath library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "napit",
+            "latest_version": "1.0.0",
+            "description": "Native napit library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nthread",
+            "latest_version": "1.0.0",
+            "description": "Native nthread library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ncli",
+            "latest_version": "1.0.0",
+            "description": "Native ncli library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nlist",
+            "latest_version": "1.0.0",
+            "description": "Native nlist library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nalculator",
+            "latest_version": "1.0.0",
+            "description": "Native nalculator library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ntime",
+            "latest_version": "1.0.0",
+            "description": "Native ntime library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ngui-render-software",
+            "latest_version": "1.0.0",
+            "description": "Native ngui-render-software library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ncrypto",
+            "latest_version": "1.0.0",
+            "description": "Native ncrypto library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nmap",
+            "latest_version": "1.0.0",
+            "description": "Native nmap library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nstr-builder",
+            "latest_version": "1.0.0",
+            "description": "Native nstr-builder library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nhttp",
+            "latest_version": "1.0.0",
+            "description": "Native nhttp library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nregx",
+            "latest_version": "1.0.0",
+            "description": "Native nregx library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ncompress",
+            "latest_version": "1.0.0",
+            "description": "Native ncompress library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ntrader",
+            "latest_version": "1.0.0",
+            "description": "Native ntrader library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nsocket",
+            "latest_version": "1.0.0",
+            "description": "Native nsocket library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "ngui-window-wayland",
+            "latest_version": "1.0.0",
+            "description": "Native ngui-window-wayland library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nmaps",
+            "latest_version": "1.0.0",
+            "description": "Native nmaps library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nimage",
+            "latest_version": "1.0.0",
+            "description": "Native nimage library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nbidi",
+            "latest_version": "1.0.0",
+            "description": "Native nbidi library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nurl",
+            "latest_version": "1.0.0",
+            "description": "Native nurl library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nwebsocket",
+            "latest_version": "1.0.0",
+            "description": "Native nwebsocket library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nargs",
+            "latest_version": "1.0.0",
+            "description": "Native nargs library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nenv",
+            "latest_version": "1.0.0",
+            "description": "Native nenv library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "name": "nfs",
+            "latest_version": "1.0.0",
+            "description": "Native nfs library for Nitpick.",
+            "categories": [
+                "utils"
+            ],
+            "downloads": 0
+        },
+        {
+            "warnings": "",
+            "name": "nsched",
+            "latest_version": "1.0.0",
+            "description": "Pure Nitpick scheduler: CFS fairness, ULE heuristics, seL4 MCS sporadic servers, Chase-Lev lock-free work stealing, M:N coroutines. Zero C dependencies.",
+            "categories": [
+                "concurrency"
+            ],
+            "downloads": 0
         }
     ]
 }
